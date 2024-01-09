@@ -36,7 +36,7 @@ func demonstrate(name string, numbers []int64) {
 
 func main() {
 	case0 := []int64{5, 3, 6, 3, 1, 2, 7, 9, 8, 4}
-	case1 := []int64{5, 3, 6, 3, 1, 2, 7, 9, 8, 4}
+	case1 := []int64{2, 17, 5, 3, 6, 3, 1, 2, 7, 9, 8, 4}
 	case2 := []int64{5, 3, 6, 3, 1, 2, 7, 9, 8, 4, 123, 17, 456, 55, 7, 19, 1, 2}
 
 	demonstrate("Case 0", case0)
